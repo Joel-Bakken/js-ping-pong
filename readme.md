@@ -1,8 +1,8 @@
 # Ping-Pong
 
-#### Replaces certain numbers within a range determined by you with ping or pong [ver 0.9 6-9-17]
+#### Replaces certain numbers within a range determined by you with ping or pong [ver 1.2 7-31-17]
 
-#### By Joel Bakken (with some help from Google)
+#### By Joel Bakken (with some help from Google & learnhowtoprogram.com)
 
 ## Description
 
