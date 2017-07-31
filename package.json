@@ -1,0 +1,24 @@
+{
+  "name": "js-ping-pong",
+  "version": "1.0.0",
+  "description": "Ping-Pong using more advanced JavaScript Concepts",
+  "main": "pingpong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Littlejoel29/js-ping-pong.git"
+  },
+  "author": "Joel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Littlejoel29/js-ping-pong/issues"
+  },
+  "homepage": "https://github.com/Littlejoel29/js-ping-pong#readme",
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
