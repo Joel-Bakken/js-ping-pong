@@ -1,0 +1,17 @@
+{
+  "name": "js-ping-pong",
+  "description": "Ping-Pong using more advanced JavaScript Concepts",
+  "main": "pingpong-interface.js",
+  "authors": [
+    "Joel"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Littlejoel29/js-ping-pong",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
